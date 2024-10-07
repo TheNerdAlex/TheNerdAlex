@@ -1,5 +1,5 @@
 - 👋 Hi I’m @TheNerdAlex, AKA Alex or Alexander.
-- 🏫 I am a sophomore enrolled in an IT class at a technical school.
+- 🏫 I am a sophomore enrolled in an IT class at a CTE high school.
 - 👀 I’m interested in becoming fluent in languages such as HTML, CSS, Javascript & Python.
 - 💻 I’m currently learning HTML & CSS and creating websites.
 - ♻️ I’m looking to collaborate on AI chatbots.
